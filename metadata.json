@@ -1,0 +1,5 @@
+{
+  "name": "Veritas AI Forensics",
+  "description": "A professional-grade forensic analysis tool detecting AI-generated imagery using computer vision algorithms and Gemini 2.5 interpretation.",
+  "requestFramePermissions": []
+}
